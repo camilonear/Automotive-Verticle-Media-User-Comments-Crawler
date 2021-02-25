@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+test = True
 __auther__ = 'XL'
 import re
 import time
